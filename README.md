@@ -51,4 +51,4 @@ You have to install graphics libraries as in <a href="http://lazyfoo.net/tutoria
 SDL2        
 SDL2_image  
 SDL2_ttf    
-```
+`
