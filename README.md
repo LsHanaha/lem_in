@@ -52,6 +52,3 @@ SDL2
 SDL2_image  
 SDL2_ttf    
 ```
-```
-You have to upload .c and .h files from <a href="http://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx/">this source</a> to ~/SDL_gfx/
-```
